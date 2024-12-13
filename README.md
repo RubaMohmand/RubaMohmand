@@ -9,7 +9,6 @@
 <br>
 <div align="center">
 
-[Email Me](mailto:ruba.mohmand17@gmail.com) ,
 <a href="Ruba_Computer_Scientist.pdf">My Resume</a>
 </div>
 </p>  
