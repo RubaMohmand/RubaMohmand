@@ -1,9 +1,10 @@
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Ruba Mohmand </h1>
 
+![github_cover_banner](Banner.png)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a dedicated Machine Learning Engineer and Full-Stack Web Developer with a passion for creating impactful solutions through technology. Leveraging expertise in Python, TensorFlow, and full-stack frameworks, I design and deploy scalable web applications and advanced AI models. My work focuses on solving real-world problems in domains such as healthcare and finance by developing machine learning systems, optimizing performance, and ensuring seamless user experiences.
+    I am a dedicated Data Scientist and Full-Stack Web Developer with a passion for creating impactful solutions through technology. Leveraging expertise in Python, TensorFlow, and full-stack frameworks, I design and deploy scalable web applications and advanced AI models. My work focuses on solving real-world problems in domains such as healthcare and finance by developing machine learning systems, optimizing performance, and ensuring seamless user experiences.
 <br>
 <br>
 <div align="center">
@@ -87,7 +88,8 @@
 <br>
 <!-- Websites -->
 
-<h2 style="color: #44AEFB">🔗 Websites</h2>
+
+<h2 style="color: #44AEFB">🌐 Websites</h2>
 
 -->[FreeDaFonts](https://freedafonts.com/)
 
@@ -124,6 +126,8 @@
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
+
+<h2 style="color: #44AEFB">📞 Contact Me</h2>
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.linkedin.com/in/rubamohmand/" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px"/>
